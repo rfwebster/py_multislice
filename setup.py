@@ -21,5 +21,7 @@ setup(
         "tqdm >= 4.48",
         "ase",
         "pypng",
+        "scikit-learn",
+        "scikit-image",
     ],
 )
